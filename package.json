@@ -3,10 +3,17 @@
   "version": "1.0.0",
   "description": "Dummy api to snapshot test with jest",
   "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
   "author": "Nikos Linakis",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "got": "^11.8.2",
+    "jest": "^26.6.3"
   },
   "engines": {
     "node": "14.x"
