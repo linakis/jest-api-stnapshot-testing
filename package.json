@@ -1,0 +1,14 @@
+{
+  "name": "jest-api-snapshot-testing",
+  "version": "1.0.0",
+  "description": "Dummy api to snapshot test with jest",
+  "main": "server.js",
+  "author": "Nikos Linakis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
